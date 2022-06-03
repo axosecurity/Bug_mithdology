@@ -21,8 +21,7 @@ Bug Bounty Hunter Methodology v3
 
 Img of All Methodology
 
-<img src=https://raw.githubusercontent.com/axosecurity/Bug_mithdology/main/Screenshot%20from%202022-05-24%2017-33-07.png
->
+<img src='https://raw.githubusercontent.com/axosecurity/Bug_mithdology/main/Screenshot%20from%202022-05-24%2017-33-07.png'>
 -----------------------------------------------
 
 PARTS OF THIS METHODOlogy
