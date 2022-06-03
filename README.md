@@ -396,6 +396,8 @@ https://www.youtube.com/watch?v=OQMtMchO0NM
 github 
 
 https://github.com/wappalyzer/wappalyzer	
+
+<img src='https://github.com/wappalyzer/wappalyzer'>
 	
 --------------------------------------------------------------------------------------	
 	
