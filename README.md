@@ -205,9 +205,7 @@ ENUMARATION {
 
 	GRAPH IMG OF DISCOVERING NEW TARGETS	
 
-<img src='
-https://github.com/axosecurity/Bug_mithdology/blob/main/Screenshot%20from%202022-05-20%2009-53-44.png?raw=true
-'>
+<img src='https://github.com/axosecurity/Bug_mithdology/blob/main/Screenshot%20from%202022-05-20%2009-53-44.png?raw=true'>
 
 [USE BURPSUITE SPIDER FOR ThiS LINKED HOST DISCOVERY]
 	USE BURPSUITE OLD VERSION FOR SPIDERING THE FUCKING WEBSITE
@@ -315,9 +313,7 @@ video for learning
 	
 	 MASSCAN
 	
-<img src='
-https://github.com/axosecurity/Bug_mithdology/blob/main/Screenshot%20from%202022-05-22%2021-35-03.png?raw=true
-'>
+<img src='https://github.com/axosecurity/Bug_mithdology/blob/main/Screenshot%20from%202022-05-22%2021-35-03.png?raw=true'>
 
 github REPOsitory =
 	https://github.com/robertdavidgraham/masscan
@@ -343,9 +339,7 @@ github =
 	WayBackUrl
 	
 IMG= 
-
-https://github.com/axosecurity/Bug_mithdology/blob/main/Screenshot%20from%202022-05-22%2022-21-33.png?raw=true
-
+<img src='https://github.com/axosecurity/Bug_mithdology/blob/main/Screenshot%20from%202022-05-22%2022-21-33.png?raw=true'>
 Github = 
 
 https://github.com/tomnomnom/waybackurls	
